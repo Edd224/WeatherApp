@@ -8,8 +8,8 @@ const App = () => {
   const [currentWeather, setCurrentWeather] = useState({});
   const [forecast, setForecast] = useState([]);
   const [weatherType, setWeatherType] = useState("default");
-  const [sunrise, setSunrise] = useState("");
-  const [sunset, setSunset] = useState("");
+  // const [sunrise, setSunrise] = useState("");
+  // const [sunset, setSunset] = useState("");
 
 
   // Pozadia podľa počasia
